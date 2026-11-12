@@ -19,7 +19,7 @@ Estagiário de TI no Sistema Jangadeiro (Fortaleza-CE), técnico em Redes de Com
 ### Projetos em destaque
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [SGCTI](https://github.com/ArthurCoding/Sistema-de-Gerenciamento-de-Chamados-de-TI-SGCTI-) | Sistema de gerenciamento de chamados de TI (help desk) com relatórios em PDF | Java, Spring Boot, MySQL |
+| [SGCTI](https://github.com/ArthurCoding/Sistema-de-Gerenciamento-de-Chamados-de-TI-SGCTI-) | Projeto acadêmico: sistema básico de chamados de TI (help desk) com perfis de acesso e relatórios em PDF | Java, Spring Boot, MySQL |
 | [StockMaster](https://github.com/ArthurCoding/StockMaster) | Automação RPA que faz login em um sistema web e cadastra produtos a partir de uma planilha | Python, PyAutoGUI, Pandas |
 | [Agenda de Contatos](https://github.com/ArthurCoding/AGENDA_CONTATOS-PY) | CRUD completo com interface gráfica | Python, Tkinter, SQLite |
 
